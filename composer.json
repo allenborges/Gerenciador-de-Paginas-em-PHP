@@ -1,0 +1,9 @@
+{
+    "name": "allen/curso-composer",
+    "description": "CursoComposer",
+    "type": "library",
+    "require": {
+        "phpunit/phpunit": "^9.1"
+    },
+    "license": "MIT"
+}
